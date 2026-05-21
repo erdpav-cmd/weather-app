@@ -1,9 +1,0 @@
-5 ключевых полей ответа latest с open.er-api.com:
-
-1. result: "success" — статус операции
-2. base_code: "USD" — базовая валюта запроса
-3. time_last_update_utc: "Tue, 19 May 2026 00:02:31 +0000" — время обновления
-4. time_next_update_utc: "Wed, 20 May 2026 00:15:41 +0000" — следующее обновление
-5. conversion_rates (или rates): объект с курсами валют
-   - conversion_rates.RUB: 92.1234
-   - conversion_rates.EUR: 0.8765
