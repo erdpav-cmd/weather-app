@@ -1,3 +1,4 @@
+
 ```markdown
 # 🌤️ Weather App - Приложение погоды
 
